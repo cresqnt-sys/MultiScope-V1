@@ -24,6 +24,11 @@
         "color": "0xFB4F29",
         "thumbnail_url": "https://maxstellar.github.io/biome_thumb/HELL.png"
     },
+    "HEAVEN": {
+        "emoji": "🪽",
+        "color": "0xE7DB43",
+        "thumbnail_url": "https://maxstellar.github.io/biome_thumb/HEAVEN.png"
+    },
     "STARFALL": {
         "emoji": "🌠",
         "color": "0xFFFFFF",
