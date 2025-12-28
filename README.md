@@ -1,5 +1,5 @@
 > [!WARNING] 
-> This repository has been archived in favor of [MultiScope V2](https://github.com/cresqnt-sys/MultiScope-V2)
+> This repository has been archived in favor of [MultiScope V2](https://github.com/cresqnt-sys/MultiScope)
 
 # <img src="biomescope.ico" alt="Project Logo" width="40" style="vertical-align: middle;"/>&nbsp;MultiScope
 
